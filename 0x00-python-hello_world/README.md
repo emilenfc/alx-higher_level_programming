@@ -1,2 +1,1 @@
-First day using Python
-In ALX 
+Python hello world  project 
