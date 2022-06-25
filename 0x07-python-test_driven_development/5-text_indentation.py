@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-print_square.py
-# SaziA. Ndwandwe
+# IYADUKUNZE Emile
 """Defines a square-printing function."""
 
 
