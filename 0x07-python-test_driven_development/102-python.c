@@ -1,6 +1,6 @@
 /*
  * File: 102-python.c
- * Auth: Sazi A. Ndwandwe
+ * Auth: IYADUKUNZE Emile
  */
 
 #include "Python.h"
