@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-say_my_name.py
-# Sazi A. Ndwandwe
+# IYADUKUNZE Emile
 """Defines a name-printing function."""
 
 
